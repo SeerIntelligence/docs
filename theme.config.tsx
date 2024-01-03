@@ -2,16 +2,16 @@ import React from 'react'
 import { DocsThemeConfig } from 'nextra-theme-docs'
 
 const config: DocsThemeConfig = {
-  logo: <span>My Project</span>,
+  logo: <span>Seer Docs</span>,
   project: {
-    link: 'https://github.com/shuding/nextra-docs-template',
+    link: 'https://github.com/seerintelligence.com/docs.seerintelligence.com',
   },
   chat: {
     link: 'https://discord.com',
   },
-  docsRepositoryBase: 'https://github.com/shuding/nextra-docs-template',
+  docsRepositoryBase: 'https://github.com/seerintelligence.com/docs.seerintelligence.com',
   footer: {
-    text: 'Nextra Docs Template',
+    text: 'Seer Documentation, made with 💚 & Nextra',
   },
 }
 

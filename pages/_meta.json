@@ -1,15 +1,15 @@
 {
   "index": "Introduction",
-  "another": "Another Page",
-  "advanced": "Advanced (A Folder)",
+  "CommercialServices": "Commercial Services",
+
   "about": {
     "title": "About",
     "type": "page"
   },
   "contact": {
-    "title": "Contact ↗",
+    "title": "Contact",
     "type": "page",
-    "href": "https://twitter.com/shuding_",
+    "href": "mailto:free@seerintelligence.com",
     "newWindow": true
   }
 }

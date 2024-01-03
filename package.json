@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/shuding/nextra-docs-template.git"
+    "url": "git+https://github.com/seerintelligence.com/docs.seerintelligence.com"
   },
   "author": "Shu Ding <g@shud.in>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/shuding/nextra-docs-template/issues"
+    "url": "https://github.com/seerintelligence/docs.seerintelligence.com/issues"
   },
-  "homepage": "https://github.com/shuding/nextra-docs-template#readme",
+  "homepage": "https://github.com/seerintelligence/docs.seerintelligence.com#readme",
   "dependencies": {
     "next": "^13.0.6",
     "nextra": "latest",
