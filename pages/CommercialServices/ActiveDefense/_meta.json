@@ -1,3 +1,23 @@
 {
-    "WhatsActiveDefense": "What's Active Defense?"
+    "WhatsActiveDefense": "What's Active Defense?",
+    "threatIntelligence": "Threat Intelligence: MISP, OpenCTI",
+    "incidentResponse": "Incident Response: TheHive, Cortex",
+    "activeMonitoring": "Active Monitoring: Snort, Suricata",
+    "deception": "Deception Technologies: Honeyd, Dionaea",
+    "countermeasures": "Countermeasures: Suricata, iptables",
+    "honeypots": "Honeypots: Honeyd, Glastopf",
+    "networkSegmentation": "Network Segmentation: pfSense, VyOS",
+    "sandboxing": "Sandboxing: Cuckoo Sandbox, Joe Sandbox",
+    "threatHunting": "Threat Hunting: OSquery, GRR",
+    "behavioralAnalytics": "Behavioral Analytics: Wazuh, OSSEC",
+    "dnsFiltering": "DNS Filtering: Pi-hole, BIND",
+    "edr": "Endpoint Detection and Response (EDR): Osquery, Kolide Fleet",
+    "siem": "Security Information and Event Management (SIEM): ELK Stack (Elasticsearch, Logstash, Kibana), Graylog",
+    "secAutomation": "Security Automation: TheHive, MISP",
+    "UEBA": "User and Entity Behavior Analytics (UEBA): Open Source Security Information Management (OSSIM)",
+    "emailSecurity": "Email Security: SpamAssassin, ClamAV",
+    "waf": "Web Application Firewalls (WAF): ModSecurity, NAXSI",
+    "iam": "Identity and Access Management (IAM): FreeIPA, Keycloak",
+    "cloudSecurity": "Cloud Security: OpenSCAP, Lynis",
+    "encryption": "Encryption: OpenSSL, GnuPG (GPG)"
 }
