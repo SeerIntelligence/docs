@@ -6,9 +6,6 @@ const config: DocsThemeConfig = {
   project: {
     link: 'https://github.com/seerintelligence.com/docs.seerintelligence.com',
   },
-  chat: {
-    link: 'https://discord.com',
-  },
   docsRepositoryBase: 'https://github.com/seerintelligence.com/docs.seerintelligence.com',
   footer: {
     text: 'Seer Documentation, made with 💚 & Nextra',
